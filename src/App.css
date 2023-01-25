@@ -1,13 +1,13 @@
 .form {
-	padding: 20px;
+	padding: 25px;
 	margin: 20px;
-	max-width: 500px;
+	max-width: 400px;
 	margin: 50px auto;
-	background: white;
-	border-radius: 5px;
-	box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+	background: lightblue;
+	border-radius: 10px;
+	box-shadow: 10px 10px 0 rgba(38, 162, 75, 0.299);
 }
 
 .button {
-	margin: 5px auto;
+	margin: 8px auto;
 }
