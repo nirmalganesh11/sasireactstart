@@ -1,0 +1,404 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/hJoe1i1MXoO7sXkbQRuONvUNPEo.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                14
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+            "popularity": 209.344,
+            "poster_path": "/hGFjtg1p473Lo8F2LVIQydBHZ1X.jpg",
+            "release_date": "2023-03-23",
+            "title": "The Super Mario Bros. Movie",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qaTzVAW1u16WFNsepjCrilBuInc.jpg",
+            "genre_ids": [
+                16,
+                28,
+                10751,
+                35,
+                878
+            ],
+            "id": 539681,
+            "original_language": "en",
+            "original_title": "DC League of Super-Pets",
+            "overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
+            "popularity": 265.248,
+            "poster_path": "/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+            "release_date": "2022-07-27",
+            "title": "DC League of Super-Pets",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1090
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751,
+                878
+            ],
+            "id": 9607,
+            "original_language": "en",
+            "original_title": "Super Mario Bros.",
+            "overview": "Mario and Luigi, plumbers from Brooklyn, find themselves in an alternate universe where evolved dinosaurs live in hi-tech squalor. They're the only hope to save our universe from invasion by the dino dictator, Koopa.",
+            "popularity": 42.342,
+            "poster_path": "/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+            "release_date": "1993-05-28",
+            "title": "Super Mario Bros.",
+            "video": false,
+            "vote_average": 4.3,
+            "vote_count": 1002
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tQFwpwJg6Je7l6A8rgRZ8yefvdV.jpg",
+            "genre_ids": [
+                53,
+                878,
+                9648
+            ],
+            "id": 37686,
+            "original_language": "en",
+            "original_title": "Super 8",
+            "overview": "In 1979 Ohio, several youngsters are making a zombie movie with a Super-8 camera. In the midst of filming, the friends witness a horrifying train derailment and are lucky to escape with their lives. They soon discover that the catastrophe was no accident, as a series of unexplained events and disappearances soon follows. Deputy Jackson Lamb, the father of one of the kids, searches for the terrifying truth behind the crash.",
+            "popularity": 37.247,
+            "poster_path": "/sytFL6ALMAesKZoarlp7bIDKnns.jpg",
+            "release_date": "2011-06-08",
+            "title": "Super 8",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 5970
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8VSaa8ZCy43zm7aRzsyCnKOfarm.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "id": 886396,
+            "original_language": "en",
+            "original_title": "Batman and Superman: Battle of the Super Sons",
+            "overview": "After discovering he has powers, 11-year-old Jonathan Kent and assassin-turned-Boy-Wonder Damian Wayne must join forces to rescue their fathers (Superman & Batman) and save the planet from the malevolent alien force known as Starro.",
+            "popularity": 145.333,
+            "poster_path": "/mvffaexT5kA3chOnGxwBSlRoshh.jpg",
+            "release_date": "2022-10-18",
+            "title": "Batman and Superman: Battle of the Super Sons",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rfbpgHbotsnB4sopZDIA3EhPecQ.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 746333,
+            "original_language": "fr",
+            "original_title": "Super-héros malgré lui",
+            "overview": "A struggling actor seems doomed to live life as a loser. When he finally snatches a lead role as a superhero named “Badman,” he feels like everything is possible, but fate strikes again.",
+            "popularity": 38.328,
+            "poster_path": "/Aie2kiYOUgZeakpshM2N64PKof1.jpg",
+            "release_date": "2022-02-02",
+            "title": "Superwho?",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 361
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/y4rU4ETaaPi2Uk0g8Tsn9cVpPiZ.jpg",
+            "genre_ids": [
+                35,
+                28,
+                18
+            ],
+            "id": 45132,
+            "original_language": "en",
+            "original_title": "Super",
+            "overview": "After his wife falls under the influence of a drug dealer, an everyday guy transforms himself into Crimson Bolt, a superhero with the best intentions, though he lacks for heroic skills.",
+            "popularity": 14.218,
+            "poster_path": "/iBXsm2VuTLdocOWUHSKjie8fjlU.jpg",
+            "release_date": "2010-11-26",
+            "title": "Super",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 1275
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7PyjcqwobxkoDvy8b9DLblh9mph.jpg",
+            "genre_ids": [
+                35,
+                878,
+                10749
+            ],
+            "id": 4474,
+            "original_language": "en",
+            "original_title": "My Super Ex-Girlfriend",
+            "overview": "When New York architect Matt Saunders dumps his new girlfriend Jenny Johnson - a smart, sexy and reluctant superhero known as G-Girl - she uses her powers to make his life a living hell!",
+            "popularity": 18.294,
+            "poster_path": "/vs4jcY5NQA24zFGihY2EiqEA5hI.jpg",
+            "release_date": "2006-07-20",
+            "title": "My Super Ex-Girlfriend",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 1260
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lXtS4sFvOtwnFBiezzJvOMC7b9W.jpg",
+            "genre_ids": [
+                35,
+                80,
+                9648
+            ],
+            "id": 50022,
+            "original_language": "en",
+            "original_title": "Super Troopers 2",
+            "overview": "When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.",
+            "popularity": 16.948,
+            "poster_path": "/57SZgdugVClIy22rfnANeBJ5KsN.jpg",
+            "release_date": "2018-04-19",
+            "title": "Super Troopers 2",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 385
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kDQdFs5XL6G8TuXvd0NnJfQ59GP.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28,
+                35,
+                53
+            ],
+            "id": 641501,
+            "original_language": "fr",
+            "original_title": "Comment je suis devenu super-héros",
+            "overview": "Paris 2020. While superheroes have assimilated into the Parisian society, they discover a new drug that gives themselves personal superpowers to mere mortals. Lieutenants Moreau and Schaltzmann are investigating the case with the support of two ex-superheroes, Monte Carlo and Callista. They'll do whatever it takes to dismantle the traffic. But Moreau's past resurfaces, and the investigation becomes more complicated.",
+            "popularity": 43.992,
+            "poster_path": "/d0wn9YtEnmbucx8ZUsT918ctoiK.jpg",
+            "release_date": "2020-11-19",
+            "title": "How I Became a Superhero",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 426
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dbFmo9Xm1eGiM1Z3zi96B2qNdZ.jpg",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 149910,
+            "original_language": "en",
+            "original_title": "Super Buddies",
+            "overview": "When the five puppies stumble upon the Five Power Rings of Inspiron (alien artifacts abandoned on Earth 16 years ago), they all develop super powers, and are enlisted in Captain Canine's battle against the evil Darkon alien Commander Drex. Captain Canine is commander of space ship Megasis and is from the planet Inspiron. He is the mortal enemy of the Commander Drex. In charge of protecting Princess Jorala and the Five Power Rings from Drex, Megasis places the rings in hiding on the planet Earth, and takes the form of a German Shepherd, intending to stay on earth in very deep cover. Adopted by aspiring young comic book artist Ian Shaeffer, and renamed Captain Canine, he spends 16 happy years on Earth, as Ian recounts the stories of his space adventures. But when the five Buddies discover the Power Rings and instantly develop superpowers, Captain Canine has to train them very quickly indeed - for Commander Drex is headed back to earth, and this time he's determined to succeed.",
+            "popularity": 10.639,
+            "poster_path": "/a8mkjVwEGa0NgxLUHdHd6crbCxz.jpg",
+            "release_date": "2013-08-07",
+            "title": "Super Buddies",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/syJIWYB1L14wdIiiH9Q7pft4ga5.jpg",
+            "genre_ids": [
+                35,
+                80,
+                9648
+            ],
+            "id": 39939,
+            "original_language": "en",
+            "original_title": "Super Troopers",
+            "overview": "Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs. After stumbling on a drug ring, they plan to make a bust, but a rival police force is out to steal the glory.",
+            "popularity": 10.107,
+            "poster_path": "/7aatn3TWAVo9a2OJyQTuYpoB48G.jpg",
+            "release_date": "2001-01-18",
+            "title": "Super Troopers",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 905
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/finCGOD6V1gCAzxOr266IIuThce.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 16604,
+            "original_language": "en",
+            "original_title": "Super Rhino",
+            "overview": "This short begins with the star canine and his owner Penny in peril from \"The Man with the Green Eye\", trapped within his fortress protected by overwhelming defenses, tied up and suspended high above a bottomless pit that's surrounded by fire. So Penny's father transforms Rhino into a super hamster to save the day.",
+            "popularity": 9.413,
+            "poster_path": "/aOoq1GriFCdI9FRWDOgihKn6rlX.jpg",
+            "release_date": "2009-03-21",
+            "title": "Super Rhino",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 60
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jdLirLFnvSuAKin2XqZkwOEv4Km.jpg",
+            "genre_ids": [
+                16,
+                28,
+                35
+            ],
+            "id": 913205,
+            "original_language": "en",
+            "original_title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+            "overview": "With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth's Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!",
+            "popularity": 80.516,
+            "poster_path": "/3Hnhf1FqVGnh20hKlHbiRvHhB5b.jpg",
+            "release_date": "2022-05-23",
+            "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eK6eBzp7m7WZYaJ3iAnjdPDngiP.jpg",
+            "genre_ids": [
+                16
+            ],
+            "id": 835739,
+            "original_language": "en",
+            "original_title": "Super Monsters: Once Upon a Rhyme",
+            "overview": "From Goldilocks to Hansel and Gretel, the Super Monsters reimagine classic fairy tales and favorite nursery rhymes with a musical, magical spin!",
+            "popularity": 22.254,
+            "poster_path": "/unIkHTdCEIdHdtmWjEwfv7Ifllk.jpg",
+            "release_date": "2021-06-01",
+            "title": "Super Monsters: Once Upon a Rhyme",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 67
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/96ANeIgnKUqrBNlG2ZdesuOsony.jpg",
+            "genre_ids": [
+                16,
+                14,
+                10751
+            ],
+            "id": 528222,
+            "original_language": "en",
+            "original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+            "overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
+            "popularity": 40.779,
+            "poster_path": "/2t6V87sYjESrtBj9flbHWhZKtAp.jpg",
+            "release_date": "2018-06-04",
+            "title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 50
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/26SPOgiwiKzXjSSVWLrndaZyWT.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 71285,
+            "original_language": "en",
+            "original_title": "Super Eruption",
+            "overview": "A Yellowstone National Park scientist and a thrill-seeking ranger join forces to plug-up a volatile super volcano that threatens to wipe out the entire United States.",
+            "popularity": 8.005,
+            "poster_path": "/bD6NS982c6w7tqfEM54YgPeQmhY.jpg",
+            "release_date": "2011-03-08",
+            "title": "Super Eruption",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 40
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/18tOywxDCzLgUimj378jnisQyS4.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 69270,
+            "original_language": "en",
+            "original_title": "Super Hybrid",
+            "overview": "Late one night, a mysterious car is brought into the Chicago police impound garage after a deadly traffic accident. The on-call mechanics soon discover the car has a mind of its own. With hundreds of horsepower and two tons of reinforced steel at its command, it's a seemingly unstoppable killing machine capable of outrunning -- and outwitting -- humans.",
+            "popularity": 8.041,
+            "poster_path": "/iK3RR1bNWN99jt3EwEAqYanw6Br.jpg",
+            "release_date": "2010-01-01",
+            "title": "Super Hybrid",
+            "video": false,
+            "vote_average": 5.3,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zvjBC9guJVw32bZu4ODp6wzJ9Vi.jpg",
+            "genre_ids": [
+                10751,
+                16
+            ],
+            "id": 368304,
+            "original_language": "en",
+            "original_title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+            "overview": "The Avengers are forced to “party” with Ultron when he seeks to disassemble the team by taking control of Iron Man’s armor and enact a nefarious scheme to take over the world.",
+            "popularity": 18.285,
+            "poster_path": "/wEtF1o9debfOwzr117TI78dNV6Y.jpg",
+            "release_date": "2015-11-16",
+            "title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/EaGrw1TSRdYxZADDGjJKB40YKV.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 396940,
+            "original_language": "en",
+            "original_title": "Super Dark Times",
+            "overview": "Teenagers Zach and Josh have been best friends their whole lives, but when a gruesome accident leads to a cover-up, the secret drives a wedge between them and propels them down a rabbit hole of escalating paranoia and violence.",
+            "popularity": 10.434,
+            "poster_path": "/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg",
+            "release_date": "2017-09-29",
+            "title": "Super Dark Times",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 529
+        }
+    ],
+    "total_pages": 156,
+    "total_results": 3115
+}

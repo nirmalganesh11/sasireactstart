@@ -8,6 +8,8 @@ import Select from "../Components/Select";
 import Button from "../Components/Button";
 import axios from "axios";
 
+
+
 class FormContainer extends Component {
 constructor(props) {
     super(props);
@@ -171,7 +173,9 @@ constructor(props) {
 
   render() {
     return (
+      <div>
       <form className="container-fluid" onSubmit={this.handleFormSubmit}>
+
          <Input
           inputType={"text"}
           title={"Email ID:"}
@@ -277,6 +281,9 @@ constructor(props) {
         />{" "}
         {/* Clear the form */}
       </form>
+    
+
+      </div>
     );
   }
 }
