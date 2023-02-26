@@ -305,10 +305,18 @@ constructor(props) {
          {this.state.certValues.map((element, index) => (
             <div className="form-inline" key={index}>
               <label>cert Name</label>
-              <input type="text" name="certName" value={element.certName || ""} onChange={e => this.handleChange(index, e)} />
-
-
-            
+              {/* <input type="text" name="certName" value={element.certName || ""} onChange={e => this.handleChange(index, e)} /> */}
+              <select
+              name="certName" 
+        onChange={e => this.handleChange(index,e)} 
+      >
+       <option value="AWS SAA">Solutions Architect</option>
+        <option value="AWS Developer Associate">Developer Associate</option>
+        <option value="Redhat Enterprise Application">RedHat Enterprise Appication Developer</option>
+        <option value="JUniper Networks Associate certificate">JUnipers networks associate certificate</option>
+        <option value="Redhat microservices developer">Redhat microservices developer</option>
+        <option value="Rpa developer associate">Rpa developer associate</option>
+      </select>
 
 
               <label>cert link</label>
